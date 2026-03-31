@@ -36,6 +36,12 @@ A responsive and user-focused task management web application built with **React
 - **Storage:** Local Storage  
 
 ---
+## Screenshots 
+Employee Dashboard
+<img width="1907" height="873" alt="Screenshot 2026-04-01 010435" src="https://github.com/user-attachments/assets/34813c7d-7b28-4fdb-a27f-3cb5ae158861" />
+
+Admin Dashboard
+<img width="1886" height="894" alt="Screenshot 2026-04-01 011909" src="https://github.com/user-attachments/assets/b1417cd0-2bc1-4d8e-8920-fcb926a38d3e" />
 
 ## ▶️ Getting Started
 ### Installation
